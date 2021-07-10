@@ -1,0 +1,13 @@
+.btn {
+    color: aqua;
+background-color: black;
+margin: auto;
+width: 172px;
+margin-top: 10px;
+}
+
+.li {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
